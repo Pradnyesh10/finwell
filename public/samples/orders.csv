@@ -1,0 +1,6 @@
+order,date,customer,channel,product,quantity,total,payment,fulfillment
+2001,2026-11-03 10:15,Pooja Agarwal,Instagram,Vanilla Bloom 50ml,2,3998,paid,unfulfilled
+2002,2026-11-03 12:40,Siddharth Rao,Online Store,Royal Oud 50ml,1,3200,paid,fulfilled
+2003,2026-11-02 18:05,Fatima Sheikh,Point of Sale,Sandal Attar 12ml,3,2697,paid,fulfilled
+2004,2026-11-02 20:30,Gaurav Jain,Online Store,Rose Musk 100ml,1,2400,pending,unfulfilled
+2005,2026-11-01 11:00,Ishaan Verma,Instagram,Mini Gift Set,2,3598,paid,unfulfilled
